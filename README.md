@@ -1,3 +1,2 @@
 # KamiBot
-A simple Discord Chat Bot made using E
-  ris.js
+A simple Discord Chat Bot made using Eris.js
